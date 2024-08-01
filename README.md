@@ -1,4 +1,5 @@
-# diffusion_Vitis-AI
+# Diffusion_FPGA_Vitis-AI
+# 2024.05.13
 this project is Deployment of diffusion on FPGA
 
 # 2024.05.13
